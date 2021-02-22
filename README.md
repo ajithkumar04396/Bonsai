@@ -21,3 +21,4 @@ run the project in apache server 7.1:
 
 screenshots:
 
+![Screenshot](admin.jpeg)
